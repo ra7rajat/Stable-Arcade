@@ -5,7 +5,8 @@ An AI powered Game Dev Studio
 
 
 
-Summary
+# Summary
+
 Game development is a complex and time-consuming process that involves many time-intensive steps. The industry also has a very high barrier to entry, because as a newbie, people have to learn many complex tools, and the learning curve is difficult for most people, especially people from non-technical backgrounds. So, even though they may have good ideas for video games, they can't bring them to reality. This project demonstrates how AI can help us mitigate these challenges, and how AI is the future of Game Development.
 
 
@@ -13,7 +14,8 @@ Game development is a complex and time-consuming process that involves many time
 
 
 
-Story
+# Story
+
 The primary idea for this project was to create an AI-powered Game Dev Studio, where AI agents play the roles of different people involved in the creation of Video Games, and they can collaboratively work on a game idea provided to them. But the scope was too big. And the next problem was that my GPU board got stuck in customs for more than 2 months. So I pivoted my idea. Instead of using AI Agents, I focused on utilizing Image Generation models like Stable diffusion to customize the game according to the user’s interest. To narrow down the scope, I choose Arcade-style Fighting Games for my project.
 
 
