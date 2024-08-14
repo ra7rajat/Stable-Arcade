@@ -61,12 +61,7 @@ Create a Nice User Interface so that it is easy, even for non-technical users.
 
 Thanks a lot for this opportunity AMD. I hope I am able to bring more of my ideas to life, powered by AMD Radeon W7900 Pro. 
 
-
-
-
-
-
-
+Doc link for SS : https://docs.google.com/document/d/1uSU5Y-gF9eDQsSX-xNte2Bt7adS5O4GgPvL5heSHQGc/edit
 
 
 Automatic 1111 : https://github.com/AUTOMATIC1111/stable-diffusion-webui
